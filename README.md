@@ -27,7 +27,7 @@ cd Java-String-Ops
 
 ## Using Java-String-Ops
 
-Use this for your reference, all code is placed under Assignments directory, once you have jdk installed you can compile and run these locally.
+Use this for your reference, all code is placed under `Assignments` directory, once you have `jdk` installed you can compile and run these locally.
 
 ```bash
 cd Assignments/
