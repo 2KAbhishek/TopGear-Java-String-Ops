@@ -36,4 +36,3 @@ java Filename
 ```
 
 Hit the :star: button if you found this useful.
-
