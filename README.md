@@ -32,7 +32,7 @@ Use this for your reference, all code is placed under `Assignments` directory, o
 ```bash
 cd Assignments/
 javac Filename.java # Compile
-java Filename
+java Filename # Run
 ```
 
 Hit the :star: button if you found this useful.
